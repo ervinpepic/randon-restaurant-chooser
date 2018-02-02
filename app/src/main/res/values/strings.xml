@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">RestaurantChooser</string>
     <string name="text_viewname">Chinese</string>
+    <string name="decide_button">Get restaurant...</string>
+    <string name="add_food">+ Add restaurant +</string>
+    <string name="hint_text">Enter your food to add</string>
+    <string name="logo">App logo</string>
 </resources>
